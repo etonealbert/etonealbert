@@ -15,6 +15,9 @@ Through my work, I aim to offer solutions that not only meet the current demands
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=etonealbert&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etonealbert&layout=compact&bg_color=DEG,e96443,904e95" alt="logo" height="180" style="max-width:100%"/> </p>
+
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=etonealbert&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
