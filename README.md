@@ -2,7 +2,7 @@
 
 # Albert Lukmanov
 
-Mobile engineer (iOS/Android) shipping real apps.
+Mobile engineer (iOS/Android) shipping real apps. Working primally in private repos
 
 </div>
 
