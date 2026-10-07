@@ -8,24 +8,9 @@ Software engineer transitioning into AI Infrastructure / ML Platform Engineering
 
 ## About
 
-I’m focused on learning and building production-grade infrastructure for AI/ML workloads.
+I’m focused on learning and building production-grade infrastructure for AI/ML workloads. Mostly contributin into private repos 
 
 
-## Current Direction
-
-```text
-Software Engineering
-        ↓
-Backend / Cloud
-        ↓
-Containers / Kubernetes
-        ↓
-Model Serving
-        ↓
-GPU Infrastructure
-        ↓
-AI Platform / MLOps
-```
 
 ## Stats
 
