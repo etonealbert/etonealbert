@@ -10,21 +10,6 @@ Software engineer transitioning into AI Infrastructure / ML Platform Engineering
 
 I’m focused on learning and building production-grade infrastructure for AI/ML workloads.
 
-My current work centers on deploying and operating models rather than training them from scratch: model serving, containerization, GPU inference, observability, APIs, and scalable infrastructure.
-
-Currently exploring:
-
-- Python and FastAPI
-- Docker and Kubernetes
-- vLLM and Triton Inference Server
-- PyTorch and Hugging Face
-- GPU inference optimization
-- MLflow and model lifecycle tooling
-- Prometheus / Grafana
-- CI/CD for ML workloads
-- LLMOps and AI platform architecture
-
-Background: mobile engineering with Swift/SwiftUI and Kotlin/Compose.
 
 ## Current Direction
 
