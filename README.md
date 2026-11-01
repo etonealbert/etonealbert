@@ -23,3 +23,7 @@ I’m focused on learning and building production-grade infrastructure for AI/ML
 ![Top languages for etonealbert](https://github-readme-stats.vercel.app/api/top-langs/?username=etonealbert&layout=compact&langs_count=8&card_width=320&theme=transparent)
 
 </div>
+
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</div>
