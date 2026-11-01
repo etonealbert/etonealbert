@@ -10,7 +10,7 @@ I'm a software engineer transitioning into **AI infrastructure and ML platform e
 
 - [**Doc Helper AI Agent**](https://github.com/etonealbert/doc-helper-ai-agent) — a FastAPI and LangGraph backend with RAG, mock CRM workflows, safety routing, and tests.
 - [**Auratio AI Notes**](https://github.com/etonealbert/auratio-ai-notes) — real-time speech-to-text with summarization, translation, and tone control.
-- [**React Native AI Assistant**](https://github.com/etonealbert/React-Native-AI-Assistant-App) — a mobile interface for conversational AI.
+- [**Etone Media Engine**](https://github.com/etonealbert/etone-media-engine) — a Python-based media asset manager and Telegram workflow for AI video production, with a mock agent pipeline.
 
 ## GitHub snapshot
 
