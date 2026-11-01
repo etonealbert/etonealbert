@@ -2,28 +2,17 @@
 
 # Albert Lukmanov
 
-Software engineer transitioning into AI Infrastructure / ML Platform Engineering.
+Software engineer transitioning into **AI infrastructure** and **ML platform engineering**.
 
-</div>
+Focused on learning and building production-grade infrastructure for AI/ML workloads, mostly contributing to private repositories.
 
-## About
+<img src="koi/pond.gif" width="760" alt="A koi swimming across the page" />
 
-I’m focused on learning and building production-grade infrastructure for AI/ML workloads. Mostly contributin into private repos 
+### GitHub at a glance
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=etonealbert&theme=github_dark" alt="GitHub stats" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=etonealbert&theme=github_dark" alt="Languages by repository" height="180" />
 
+<img src="https://streak-stats.demolab.com?user=etonealbert&mode=weekly&hide_border=true&theme=transparent" alt="GitHub weekly contribution streak" />
 
-## Stats
-
-<div align="center">
-
-![GitHub stats for etonealbert](https://github-readme-stats.vercel.app/api?username=etonealbert&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=transparent)
-
-![GitHub streak for etonealbert](https://streak-stats.demolab.com?user=etonealbert&mode=weekly&hide_border=true&theme=transparent)
-
-![Top languages for etonealbert](https://github-readme-stats.vercel.app/api/top-langs/?username=etonealbert&layout=compact&langs_count=8&card_width=320&theme=transparent)
-
-</div>
-
-<div align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
 </div>
