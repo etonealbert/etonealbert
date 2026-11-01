@@ -3,6 +3,7 @@
 I'm a software engineer transitioning into **AI infrastructure and ML platform engineering**. I'm learning and building production-grade infrastructure for AI/ML workloads; much of my work lives in private repositories.
 
 <div align="center">
+  <sub>Meet my koi: it keeps swimming while you're here and grows with my GitHub activity. 🐟</sub><br />
   <img src="koi/pond.gif" width="760" alt="A pixel-art koi swimming across the page" />
 </div>
 
