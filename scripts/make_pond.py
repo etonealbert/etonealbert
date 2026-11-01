@@ -11,11 +11,11 @@ bounds = [frame.getbbox() for frame in frames if frame.getbbox()]
 box = (min(b[0] for b in bounds), min(b[1] for b in bounds),
        max(b[2] for b in bounds), max(b[3] for b in bounds))
 fish = [frame.crop(box) for frame in frames]
-target_width = 190
+target_width = 150
 target_height = round(fish[0].height * target_width / fish[0].width)
 fish = [frame.resize((target_width, target_height), Image.Resampling.NEAREST) for frame in fish]
 
-width, height = 760, max(170, target_height + 30)
+width, height = 760, max(120, target_height + 30)
 output = []
 count = len(fish) * 2
 for i in range(count):

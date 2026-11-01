@@ -1,18 +1,32 @@
+# Hi, I'm Albert
+
+I'm a software engineer transitioning into **AI infrastructure and ML platform engineering**. I'm learning and building production-grade infrastructure for AI/ML workloads; much of my work lives in private repositories.
+
 <div align="center">
-
-# Albert Lukmanov
-
-Software engineer transitioning into **AI infrastructure** and **ML platform engineering**.
-
-Focused on learning and building production-grade infrastructure for AI/ML workloads, mostly contributing to private repositories.
-
-<img src="koi/pond.gif" width="760" alt="A koi swimming across the page" />
-
-### GitHub at a glance
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=etonealbert&theme=github_dark" alt="GitHub stats" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=etonealbert&theme=github_dark" alt="Languages by repository" height="180" />
-
-<img src="https://streak-stats.demolab.com?user=etonealbert&mode=weekly&hide_border=true&theme=transparent" alt="GitHub weekly contribution streak" />
-
+  <img src="koi/pond.gif" width="760" alt="A pixel-art koi swimming across the page" />
 </div>
+
+## Selected work
+
+- [**Doc Helper AI Agent**](https://github.com/etonealbert/doc-helper-ai-agent) — a FastAPI and LangGraph backend with RAG, mock CRM workflows, safety routing, and tests.
+- [**Auratio AI Notes**](https://github.com/etonealbert/auratio-ai-notes) — real-time speech-to-text with summarization, translation, and tone control.
+- [**React Native AI Assistant**](https://github.com/etonealbert/React-Native-AI-Assistant-App) — a mobile interface for conversational AI.
+
+## GitHub snapshot
+
+<div align="center">
+  <picture>
+    <source srcset="cards/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+    <img src="cards/stats-light.svg" width="340" alt="Public GitHub stats: stars, commits, pull requests, issues, and repositories contributed to" />
+  </picture>
+  <picture>
+    <source srcset="cards/languages-dark.svg" media="(prefers-color-scheme: dark)" />
+    <img src="cards/languages-light.svg" width="340" alt="Top languages by number of public repositories" />
+  </picture>
+</div>
+
+<sub>Cards summarize public GitHub activity and update daily. The koi is generated from public activity too.</sub>
+
+## Find me elsewhere
+
+[LeetCode](https://leetcode.com/etonealbert) · [Codewars](https://www.codewars.com/users/etonealbert) · [X](https://x.com/etonealbert)
